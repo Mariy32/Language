@@ -123,5 +123,6 @@ if ( N % 2 == 0)
    Console.WriteLine($"{LowerBorder}");
 else
    LowerBorder = LowerBorder + 1;
+   
 }
 
